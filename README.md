@@ -1,8 +1,2 @@
 # Soojin's NLP Study Project
-## Soojin's NLP Study Project
-### Soojin's NLP Study Project
-- a
-- b
-- c
-
-[여기를 클릭](https://google.com/kr)
+프로젝트 설명 없음
